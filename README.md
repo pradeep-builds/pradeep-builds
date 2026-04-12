@@ -67,9 +67,6 @@ https://leetcode.com/u/PRADEEPR25/
 
 ### 📫 Contact  
 📧 pradeeprajkumar025@gmail.com  
-🔗 linkedin.com/in/pradeeprajkumarr  
-💻 github.com/pradeep-builds  
-
 </td>
 <td width="50%">
 
