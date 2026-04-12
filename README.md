@@ -53,9 +53,7 @@ https://leetcode.com/u/PRADEEPR25/
 <td width="50%">
 
 ### 📫 Contact  
-📧 Email  
-🔗 LinkedIn  
-💻 GitHub  
+📧 Email  : pradeeprajkumar025@gmail.com
 
 </td>
 </tr>
