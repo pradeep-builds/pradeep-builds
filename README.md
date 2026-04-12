@@ -1,59 +1,49 @@
-# Hi, I'm Pradeep 👋
+# Pradeep
 
-💻 Data Science & AI Enthusiast  
-🚀 Building intelligent systems with real-world impact  
-
----
-
-## 👨‍💻 Who am I?
-
-I’m a developer focused on **AI, machine learning, and data-driven applications**.  
-I enjoy solving real-world problems by combining **data, algorithms, and scalable systems**.
+AI & Data Science Developer focused on building intelligent, scalable systems.
 
 ---
 
-## 🔭 What am I currently working on?
+## About
 
-- AI-powered data analysis tools  
-- Graph-based machine learning (GNNs)  
-- Real-time intelligent systems  
-- Improving problem-solving skills on LeetCode  
+I work on AI-driven applications and data-focused solutions, combining machine learning, backend systems, and real-time processing to solve practical problems.
 
 ---
 
-## 🛠️ What tools do I use?
+## Current Focus
 
-**Languages:**  
-Python • Java • JavaScript • C  
-
-**AI & Data:**  
-Pandas • NumPy • PyTorch • PyTorch Geometric • OpenCV • MediaPipe  
-
-**Web & Backend:**  
-FastAPI • Streamlit • React.js • Node.js • Express.js  
-
-**Cloud & Tools:**  
-AWS (S3, EC2) • Linux • Git • REST APIs  
-
-**Database & Visualization:**  
-MySQL • SQL • Tableau • Power BI • Excel  
+- Machine Learning & Deep Learning  
+- Graph Neural Networks  
+- Real-time AI systems  
+- Data Structures & Algorithms  
 
 ---
 
-## 🧠 Problem Solving
+## Tech Stack
 
-I actively practice Data Structures & Algorithms.
-
-🔗 LeetCode: https://leetcode.com/u/PRADEEPR25/
-
----
-
-## 📫 How to reach me?
-
-📧 pradeeprajkumar025@gmail.com  
-🔗 https://linkedin.com/in/pradeeprajkumarr  
-💻 https://github.com/pradeep-builds  
+Python · Java · JavaScript · C  
+Pandas · NumPy · PyTorch · OpenCV · MediaPipe  
+FastAPI · Streamlit · React · Node.js · Express  
+AWS (S3, EC2) · Linux · Git · REST APIs  
+MySQL · SQL · Tableau · Power BI  
 
 ---
 
-⭐ Open to internships, collaborations, and AI/ML opportunities
+## Work
+
+- AI-powered CSV analysis tool using LLMs  
+- GNN-based supply chain monitoring system  
+- Gesture-based drawing system using computer vision  
+- 3D AI virtual assistant with real-time interaction  
+
+---
+
+## Problem Solving
+
+LeetCode: https://leetcode.com/u/PRADEEPR25/
+
+---
+
+## Contact
+
+Email: pradeeprajkumar025@gmail.com  
