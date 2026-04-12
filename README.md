@@ -1,37 +1,62 @@
 # Pradeep 👋
 
-AI & Data Science Developer focused on building Ai models, scalable systems
+AI & Data Science Developer
 
-## About
+<table>
+<tr>
+<td width="50%">
 
-I build AI-driven applications and data-focused solutions by combining machine learning, backend systems, and real-time processing to solve practical problems
+### 👨‍💻 About  
+AI-focused developer building data-driven and intelligent systems with real-world impact  
 
-## Current Focus
+</td>
+<td width="50%">
 
-🧠 Machine Learning & Deep Learning  
+### 🔭 Focus  
+🧠 Machine Learning  
 📊 Graph Neural Networks  
-⚡ Real-time AI systems  
-🧩 Data Structures & Algorithms  
+⚡ Real-time Systems  
+🧩 DSA  
 
-## Tech Stack
+</td>
+</tr>
 
-💻 Python · Java · JavaScript · C  
-📊 Pandas · NumPy · PyTorch · OpenCV · MediaPipe  
-🌐 FastAPI · Streamlit · React · Node.js · Express  
-☁️ AWS (S3, EC2) · Linux · Git · REST APIs  
-🗄️ MySQL · SQL · Tableau · Power BI  
+<tr>
+<td width="50%">
 
-## Work
+### 🛠️ Tech  
+💻 Python · Java · JS · C  
+📊 Pandas · NumPy · PyTorch  
+🌐 FastAPI · React · Node.js  
+☁️ AWS · Linux · Git  
 
-🚀 AI-powered CSV analysis tool using LLMs  
-📦 GNN-based supply chain monitoring system  
-✍️ Gesture-based drawing system using computer vision  
-🤖 3D AI virtual assistant with real-time interaction  
+</td>
+<td width="50%">
 
-## Problem Solving
+### 🚀 Work  
+📊 CSV AI Tool  
+📦 GNN Monitoring  
+✍️ Gesture System  
+🤖 AI Assistant  
 
-🧩 LeetCode: https://leetcode.com/u/PRADEEPR25/
+</td>
+</tr>
 
-## Contact
+<tr>
+<td width="50%">
 
-📧 pradeeprajkumar025@gmail.com  
+### 🧠 Problem Solving  
+🧩 LeetCode  
+https://leetcode.com/u/PRADEEPR25/  
+
+</td>
+<td width="50%">
+
+### 📫 Contact  
+📧 Email  
+🔗 LinkedIn  
+💻 GitHub  
+
+</td>
+</tr>
+</table>
