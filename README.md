@@ -1,6 +1,6 @@
 # Pradeep 👋
 
-AI & Data Science Developer focused on building intelligent, scalable systems
+AI & Data Science Developer focused on building Ai models, scalable systems
 
 ## About
 
