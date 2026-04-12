@@ -5,14 +5,23 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 Who am I?
 
-I’m passionate about developing **AI-powered applications and data-driven solutions**.  
-I enjoy solving problems using **data structures, algorithms, and machine learning**, and building systems that are both intelligent and practical.
+I’m a developer focused on **AI, machine learning, and data-driven applications**.  
+I enjoy solving real-world problems by combining **data, algorithms, and scalable systems**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🔭 What am I currently working on?
+
+- AI-powered data analysis tools  
+- Graph-based machine learning (GNNs)  
+- Real-time intelligent systems  
+- Improving problem-solving skills on LeetCode  
+
+---
+
+## 🛠️ What tools do I use?
 
 **Languages:**  
 Python • Java • JavaScript • C  
@@ -26,42 +35,20 @@ FastAPI • Streamlit • React.js • Node.js • Express.js
 **Cloud & Tools:**  
 AWS (S3, EC2) • Linux • Git • REST APIs  
 
-**Databases & Visualization:**  
+**Database & Visualization:**  
 MySQL • SQL • Tableau • Power BI • Excel  
-
----
-
-## 💡 Projects
-
-### 📊 Conversational CSV Analysis Tool
-- AI-powered data analysis tool using Google Gemini AI  
-- Optimized preprocessing for faster query performance  
-
-### 📦 Network Pulse (GNN-based Monitoring)
-- Modeled supply chain as a time-evolving graph  
-- Used Graph Neural Networks to detect disruptions  
-
-### ✍️ AI Gesture-Based Drawing System
-- Real-time drawing using hand gestures  
-- Integrated MediaPipe, OpenCV, and PyTorch  
-
-### 🤖 3D AI Virtual Assistant
-- Built a lifelike assistant with voice + animation  
-- Real-time backend using Node.js  
 
 ---
 
 ## 🧠 Problem Solving
 
-- Active on LeetCode solving DSA problems  
-- Focus areas: Arrays, Graphs, Dynamic Programming, Problem Solving  
+I actively practice Data Structures & Algorithms.
 
-🔗 LeetCode Profile:  
-https://leetcode.com/u/PRADEEPR25/
+🔗 LeetCode: https://leetcode.com/u/PRADEEPR25/
 
 ---
 
-## 📫 Connect
+## 📫 How to reach me?
 
 📧 pradeeprajkumar025@gmail.com  
 🔗 https://linkedin.com/in/pradeeprajkumarr  
