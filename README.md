@@ -1,22 +1,22 @@
 # Pradeep 👋
 
-AI & Data Science Developer
+I build software and work with AI to solve real-world problems, focusing on clean, scalable systems and practical solutions.
 
 <table>
 <tr>
 <td width="50%">
 
 ### 👨‍💻 About  
-AI-focused developer building data-driven and intelligent systems with real-world impact  
+AI + Software developer working on data-driven applications, real-time systems, and intelligent solutions  
 
 </td>
 <td width="50%">
 
 ### 🔭 Focus  
-🧠 Machine Learning  
-📊 Graph Neural Networks  
+🧠 Machine Learning & Deep Learning  
+📊 Graph Neural Networks & Time Series  
 ⚡ Real-time Systems  
-🧩 DSA  
+🧩 Data Structures & Algorithms  
 
 </td>
 </tr>
@@ -25,19 +25,20 @@ AI-focused developer building data-driven and intelligent systems with real-worl
 <td width="50%">
 
 ### 🛠️ Tech  
-💻 Python · Java · JS · C  
-📊 Pandas · NumPy · PyTorch  
-🌐 FastAPI · React · Node.js  
-☁️ AWS · Linux · Git  
+💻 Python · Java · JavaScript · C  
+🌐 HTML · CSS · React · Node.js · Express  
+⚙️ FastAPI · Streamlit · REST APIs  
+☁️ AWS (S3, EC2) · Linux  
+🗄️ MySQL · SQL  
+📊 Pandas · NumPy · PyTorch · PyTorch Geometric  
+👁️ OpenCV · MediaPipe  
 
 </td>
 <td width="50%">
 
-### 🚀 Work  
-📊 CSV AI Tool  
-📦 GNN Monitoring  
-✍️ Gesture System  
-🤖 AI Assistant  
+### 📊 Tools & Platforms  
+🧰 Git · GitHub · Figma · Jupyter · Google Colab  
+📈 Tableau · Power BI · Excel  
 
 </td>
 </tr>
@@ -45,15 +46,35 @@ AI-focused developer building data-driven and intelligent systems with real-worl
 <tr>
 <td width="50%">
 
+### 🚀 Work  
+📊 Conversational CSV AI Tool  
+📦 GNN Supply Chain Monitoring  
+✍️ Gesture-Based Drawing System  
+🤖 3D AI Virtual Assistant  
+
+</td>
+<td width="50%">
+
 ### 🧠 Problem Solving  
 🧩 LeetCode  
 https://leetcode.com/u/PRADEEPR25/  
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 📫 Contact  
-📧 Email  : pradeeprajkumar025@gmail.com
+📧 pradeeprajkumar025@gmail.com  
+🔗 linkedin.com/in/pradeeprajkumarr  
+💻 github.com/pradeep-builds  
+
+</td>
+<td width="50%">
+
+### ⚡ Note  
+Open to internships, collaborations, and AI/SDE opportunities  
 
 </td>
 </tr>
