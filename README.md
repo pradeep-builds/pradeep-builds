@@ -35,5 +35,3 @@ I build AI-driven applications and data-focused solutions by combining machine l
 ## Contact
 
 📧 pradeeprajkumar025@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/pradeeprajkumarr  
-💻 GitHub: https://github.com/pradeep-builds
