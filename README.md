@@ -1,88 +1,28 @@
-# Pradeep
+# Pradeep 👋
 
-AI and Software Developer focused on building intelligent, scalable, and practical solutions for real-world problems.
+I build software and work with AI to solve real-world problems, focusing on clean, scalable systems and practical solutions.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-## About
+### 👨‍💻 About
 
-AI and Software Developer working on data-driven applications, real-time systems, and intelligent software solutions.
-
-</td>
-
-<td width="50%" valign="top">
-
-## Focus Areas
-
-- Machine Learning & Deep Learning
-- Graph Neural Networks & Time Series Analysis
-- Real-Time Systems
-- Data Structures & Algorithms
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-## Tech Stack
-
-**Languages**
-
-- Python
-- Java
-- JavaScript
-- C
-
-**Frontend**
-
-- HTML
-- CSS
-- React
-
-**Backend**
-
-- Node.js
-- Express.js
-- FastAPI
-- Streamlit
-- REST APIs
-
-**Cloud & Systems**
-
-- AWS (S3, EC2)
-- Linux
-
-**Databases**
-
-- MySQL
-- SQL
-
-**AI & Data Science**
-
-- Pandas
-- NumPy
-- PyTorch
-- PyTorch Geometric
-- OpenCV
-- MediaPipe
+AI + Software Developer working on data-driven applications, real-time systems, and intelligent solutions.
 
 </td>
 
 <td width="50%" valign="top">
 
-## Tools & Platforms
+### 🔭 Focus
 
-- Git
-- GitHub
-- Figma
-- Jupyter Notebook
-- Google Colab
-- Tableau
-- Power BI
-- Microsoft Excel
+🧠 Machine Learning & Deep Learning
+
+📊 Graph Neural Networks & Time Series
+
+⚡ Real-Time Systems
+
+🧩 Data Structures & Algorithms
 
 </td>
 </tr>
@@ -90,20 +30,57 @@ AI and Software Developer working on data-driven applications, real-time systems
 <tr>
 <td width="50%" valign="top">
 
-## Projects
+### 🛠️ Tech
 
-- Conversational CSV AI Tool
-- GNN-Based Supply Chain Monitoring
-- Gesture-Based Drawing & Recognition System
-- Immersive 3D AI Virtual Assistant
+💻 Python · Java · JavaScript · C
+
+🌐 HTML · CSS · React · Node.js · Express
+
+⚙️ FastAPI · Streamlit · REST APIs
+
+☁️ AWS (S3, EC2) · Linux
+
+🗄️ MySQL · SQL
+
+📊 Pandas · NumPy · PyTorch · PyTorch Geometric
+
+👁️ OpenCV · MediaPipe
 
 </td>
 
 <td width="50%" valign="top">
 
-## Problem Solving
+### 📊 Tools & Platforms
 
-**LeetCode**
+🧰 Git · GitHub · Figma
+
+📓 Jupyter · Google Colab
+
+📈 Tableau · Power BI · Excel
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Work
+
+📊 Conversational CSV AI Tool
+
+📦 GNN Supply Chain Monitoring
+
+✍️ Gesture-Based Drawing System
+
+🤖 3D AI Virtual Assistant
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Problem Solving
+
+🧩 LeetCode
 
 https://leetcode.com/u/PRADEEPR25/
 
@@ -113,7 +90,7 @@ https://leetcode.com/u/PRADEEPR25/
 <tr>
 <td width="50%" valign="top">
 
-## Contact
+### 📫 Contact
 
 📧 pradeeprajkumar025@gmail.com
 
@@ -121,7 +98,7 @@ https://leetcode.com/u/PRADEEPR25/
 
 <td width="50%" valign="top">
 
-## Opportunities
+### ⚡ Note
 
 Open to internships, collaborations, and AI/SDE opportunities.
 
@@ -133,6 +110,6 @@ Open to internships, collaborations, and AI/SDE opportunities.
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </p>
