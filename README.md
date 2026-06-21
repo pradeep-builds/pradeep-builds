@@ -8,11 +8,7 @@ I build software and work with AI to solve real-world problems, focusing on clea
 
 ### 👨‍💻 About
 
-AI + Software Developer working on data-driven applications, real-time systems, and intelligent solutions.
-
-</td>
-
-<td width="50%" valign="top">
+AI & Software Developer building intelligent, data-driven applications and scalable systems.
 
 ### 🔭 Focus
 
@@ -22,41 +18,23 @@ AI + Software Developer working on data-driven applications, real-time systems, 
 
 ⚡ Real-Time Systems
 
-🧩 Data Structures & Algorithms
-
 </td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🛠️ Tech
 
 💻 Python · Java · JavaScript · C
 
-🌐 HTML · CSS · React · Node.js · Express
+🌐 HTML · CSS · React · Node.js
 
 ⚙️ FastAPI · Streamlit · REST APIs
 
-☁️ AWS (S3, EC2) · Linux
+☁️ AWS · Linux · MySQL
 
-🗄️ MySQL · SQL
-
-📊 Pandas · NumPy · PyTorch · PyTorch Geometric
+📊 PyTorch · Pandas · NumPy
 
 👁️ OpenCV · MediaPipe
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Tools & Platforms
-
-🧰 Git · GitHub · Figma
-
-📓 Jupyter · Google Colab
-
-📈 Tableau · Power BI · Excel
 
 </td>
 </tr>
@@ -64,7 +42,7 @@ AI + Software Developer working on data-driven applications, real-time systems, 
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 Work
+### 🚀 Projects
 
 📊 Conversational CSV AI Tool
 
@@ -78,29 +56,15 @@ AI + Software Developer working on data-driven applications, real-time systems, 
 
 <td width="50%" valign="top">
 
-### 🧠 Problem Solving
+### 📌 Links
 
 🧩 LeetCode
 
 https://leetcode.com/u/PRADEEPR25/
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 📫 Contact
-
 📧 pradeeprajkumar025@gmail.com
 
-</td>
-
-<td width="50%" valign="top">
-
-### ⚡ Note
-
-Open to internships, collaborations, and AI/SDE opportunities.
+💼 Open to internships, collaborations, and AI/SDE opportunities.
 
 </td>
 </tr>
